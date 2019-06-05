@@ -1,0 +1,1 @@
+console.log('My User name '+ process.env.USER);
